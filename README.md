@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Suwichak Jarunopratump (Klao)
 
-### 📊 Data Analyst · 🏢 Business Strategist · 🚀 Aspiring Data Engineer
+### 💼 Senior BD @ Actmedia Thailand · 🤖 AI x Business Builder · 📊 Data-Driven Strategist
 
-*Bridging the gap between business needs and technical solutions — Bangkok, Thailand 🇹🇭*
+*Bridging Retail Media, FMCG Strategy, and AI — Bangkok, Thailand 🇹🇭*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvichuk-jarunopratump/)
 [![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Klaosj/Data-analyst-Portfilio)
@@ -17,50 +17,41 @@
 
 ## 🧠 About Me
 
-I'm a versatile professional who lives at the **intersection of business strategy and data technology**. With hands-on experience running my own business, hitting sales targets, and building data pipelines — I don't just analyze data, I understand the business context behind it.
+I work at the intersection of **retail media, FMCG strategy, and Business Development** — and I use data to make sharper commercial decisions.
 
-- 🔍 Specializing in transforming raw data into **actionable insights**
-- 📈 Background in **sales, entrepreneurship, and operations** gives me a unique edge
-- 🛠️ Currently leveling up in **Data Engineering** (ETL, Pipelines, Cloud Warehouses)
-- 🤝 Open to collaborating on data analysis & business intelligence projects
+Before BD, I built businesses from the ground up and hit real sales targets. That operator background is what separates how I think from most people in strategy roles.
+
+- 🏪 **Retail Media Specialist** — in-store digital & shopper media @ Actmedia Thailand
+- 🤝 **BD & Partnerships** — FMCG/CPG brands, Modern Trade retailers, media tech
+- 🤖 **AI Builder** — building agents and automation workflows for real business use cases
+- 📊 **Data-Informed** — turning market trends and shopper behavior into annual business strategy
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 **Languages & Querying**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 **Data & Visualization**
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Data Engineering**
+**Databases & Cloud**
 
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Design & Others**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -68,22 +59,25 @@ I'm a versatile professional who lives at the **intersection of business strateg
 
 | Certification | Provider | Year |
 |---|---|---|
+| 🤖 Google AI Professional | Google | 2026 |
 | 🏆 Certified Professional Data Analyst | DataRockie | 2024 |
-| 🔧 Certified Professional Data Engineer *(In Progress)* | DataTH | 2025 |
-| 🎤 Supervisor Volunteer | Tech Sauce Global Summit 2023 | 2023 |
-| 🚀 Startup Launchpad Completion | KATALST | 2022 |
+| 🔧 Certified Professional Data Engineer *(In Progress)* | DataTH | 2026 |
+| 🚀 Startup Launchpad Completion | KATALYST x Kasikorn Bank | 2022 |
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-**Brand Representative @ Casetify** *(May 2024 – Present)*
-> Achieved 1.1M THB monthly sales targets · Analyzed 9.7K daily store visitors to optimize conversion strategy toward 14.5M THB sales goals
+**Senior BD Executive @ Actmedia Thailand** *(Mar 2026 – Present)*
+> Solo BD function reporting to GM · Develop partnerships with FMCG/CPG brands and Modern Trade retailers · Drive annual business planning through multi-dimensional market analysis · Oversee strategic projects as PMO
+
+**Brand Representative @ Casetify** *(May 2024 – Mar 2026)*
+> Achieved 1.1M THB monthly sales targets · Analyzed 9.7K daily store visitors to optimize conversion strategy
 
 **Business Owner @ A Bun Dance (Craft Burger)** *(May 2021 – Dec 2022)*
 > End-to-end operations: customer segmentation, R&D, financial planning, and local marketing
 
-**Co-Founder @ Tripedia** *(Travel Tech Startup — KATALST Launchpad 2022)*
+**Co-Founder @ Tripedia** *(Travel Tech Startup — KATALYST 2022)*
 > Reached Top 30 out of 500 teams · TAM-SAM-SOM analysis · Subscription-based revenue modeling
 
 ---
@@ -107,7 +101,7 @@ I'm a versatile professional who lives at the **intersection of business strateg
 
 <div align="center">
 
-*"Data without context is just noise. I make it signal."*
+*"Strategy without execution is noise. I make it signal."*
 
 ☕ If my work helped you: &nbsp; [![Ko-fi](https://img.shields.io/badge/Buy_me_a_coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/klaosj)
 
