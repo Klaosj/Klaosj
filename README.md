@@ -39,45 +39,40 @@ Before BD, I built businesses from the ground up and hit real sales targets. Tha
 | **DailyBrief** | RSS → Thai news digests delivered to Notion every morning | Python · Notion API |
 | **TickerDesk** | US options decision-support briefs with sector screening | Python · Notion API |
 
-*Full stories and screenshots on [klao-site.vercel.app](https://klao-site.vercel.app).*
+*Full stories and screenshots on [klao-site.vercel.app](https://klao-site.vercel.app). Built AI-assisted with Claude — I own the product decisions, data models, and integrations; the AI writes most of the code.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills
 
-**AI & Automation**
+**⭐ Top highlights** — Retail media & shopper media · Sales forecasting · PMO / project delivery · AI-assisted building with Claude
 
-![Claude](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+**Business development — the daily craft**
+Modern Trade partnerships · negotiation · lead generation & pipeline management · deal closing · stakeholder management · opportunity sizing · media & campaign planning · KPI setting & tracking · annual business planning · market analysis · customer segmentation · revenue modeling · B2B sales
 
-**Building & Shipping**
+**Data — used on the job**
+Excel/Sheets modeling · dashboards & reporting · data storytelling · sales forecasting
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+**Tools I ship and work with**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Notion API](https://img.shields.io/badge/Notion_API-000000?style=flat-square&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Languages & Querying**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Data & Visualization**
-
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-**Databases & Cloud**
+**Working knowledge**
+Financial modeling · P&L & gross-margin management · budgeting & cost control · unit economics · US options & derivatives · pricing strategy · go-to-market · account & contract management · Pandas · R · Tableau · data cleaning & visualization · shopper behavior insights · web scraping
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+**Familiar with** — TypeScript · Next.js · Tailwind CSS · SwiftUI · Git/GitHub · statistics & ML basics · investment analysis · accounting basics
+*(the code layer of my shipped apps — Claude writes most of it, I read and steer it)*
+
+**Currently learning** — Data Engineering (DataTH bootcamp) · BigQuery · Google Cloud
 
 ---
 
