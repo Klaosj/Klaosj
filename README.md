@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/klao--site-17171a?style=for-the-badge&logo=vercel&logoColor=a8aecb)](https://klao-site.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvichuk-jarunopratump/)
-[![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Klaosj/data-analyst-portfolio)
+[![Projects](https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://klao-site.vercel.app/projects)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Suvichuk.j@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/suvichuk.j)
 
@@ -32,12 +32,13 @@ Before BD, I built businesses from the ground up and hit real sales targets. Tha
 
 ## 🚀 What I Build
 
-| App | What it does | Stack |
-|---|---|---|
-| **GoNai** | One-day Bangkok trip planner with exact budgets | Next.js · Supabase |
-| **AISecretary** | macOS menu-bar app tracking AI usage, quotas & projects | Swift · SwiftUI |
-| **DailyBrief** | RSS → Thai news digests delivered to Notion every morning | Python · Notion API |
-| **TickerDesk** | US options decision-support briefs with sector screening | Python · Notion API |
+| App | What it does | Stack | Links |
+|---|---|---|---|
+| **GoNai** | One-day Bangkok trip planner with exact budgets | Next.js · Supabase | [Live](https://gonai-three.vercel.app) · [Code](https://github.com/Klaosj/gonai) |
+| **klao-site** | This bilingual brand hub — Notion as CMS | Next.js · Notion API | [Live](https://klao-site.vercel.app) · [Code](https://github.com/Klaosj/klao-site) |
+| **AISecretary** | macOS menu-bar app tracking AI usage, quotas & projects | Swift · SwiftUI | private build |
+| **DailyBrief** | RSS → Thai news digests delivered to Notion every morning | Python · Notion API | private build |
+| **TickerDesk** | US options decision-support briefs with sector screening | Python · Notion API | private build |
 
 *Full stories and screenshots on [klao-site.vercel.app](https://klao-site.vercel.app). Built AI-assisted with Claude — I own the product decisions, data models, and integrations; the AI writes most of the code.*
 
